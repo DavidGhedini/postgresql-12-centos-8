@@ -1,5 +1,4 @@
 # PostgreSQL 13 on CentOS 8
-Script Installer for PostgreSQL 12 on CentOS 8.x
 
 This script will install PostgreSQL 13 on CentOS 8.
 
